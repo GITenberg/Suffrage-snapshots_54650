@@ -1,0 +1,23 @@
+_repo: Suffrage-snapshots_54650
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harper, Ida Husted
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '5924'
+    url: http://www.gutenberg.org/2009/agents/5924
+    wikipedia: http://en.wikipedia.org/wiki/Ida_Husted_Harper
+description: ''
+gutenberg_issued: '2017-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54650'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Suffrage snapshots
+url: http://www.gutenberg.org/ebooks/54650
